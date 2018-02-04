@@ -1,0 +1,23 @@
+{
+  "name": "friendfinderlatest",
+  "version": "1.0.0",
+  "description": "FriendfinderLatest",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm install",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitraiberkleybootcamp/FriendFinderLatest.git"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitraiberkleybootcamp/FriendFinderLatest/issues"
+  },
+  "homepage": "https://github.com/amitraiberkleybootcamp/FriendFinderLatest#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
